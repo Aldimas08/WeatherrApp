@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="content_image_background_page">Background Page With Image by Weather</string>
+    <string name="content_image_icon_by_current_weather">Image Icon by Current Weather</string>
+</resources>
